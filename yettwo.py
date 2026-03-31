@@ -6,7 +6,3 @@ for i in range(n):
         print(k // 10)
     else:
         print(k // 10 + 1)
-    
-# 13
-# 42
-# 29

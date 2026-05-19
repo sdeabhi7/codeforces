@@ -1,3 +1,7 @@
+#   author: sdeabhi
+
+
+
 k = int(input())
 if k > 2:
     f_row = [1] * k

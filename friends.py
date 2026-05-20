@@ -3,7 +3,6 @@
 
 
 n = int(input())
-y = []
 for i in range(n):
     w, h, k = map(int, input().split())
     value = 1

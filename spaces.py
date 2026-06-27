@@ -4,7 +4,6 @@ for i in range(n):
     a = int(input())
     k = list(map(int, input().split()))
     y = 0
-    
     for i in k:
         if i == 0:
             y += 1

@@ -2,6 +2,7 @@
 
 
 
+
 r = int(input())
 for i in range(r):
     n, k = map(int, input().split())
